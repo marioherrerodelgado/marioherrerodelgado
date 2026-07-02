@@ -12,7 +12,7 @@
 ### CTO & Digital Architect · Especialista en Zoho One
 `Madrid, España` &nbsp;·&nbsp; `CRM/ERP` &nbsp;·&nbsp; `Automatización` &nbsp;·&nbsp; `Transformación Digital`
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=620&lines=CTO+%26+Digital+Architect;Especialista+en+Zoho+One+%C2%B7+Deluge+%C2%B7+APIs;Convierto+procesos+manuales+en+sistemas+que+van+solos)](https://linkedin.com/in/marioherrerod)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=820&lines=CTO+%26+Digital+Architect;Especialista+en+Zoho+One+%C2%B7+Deluge+%C2%B7+APIs;Convierto+procesos+manuales+en+sistemas+que+van+solos)](https://linkedin.com/in/marioherrerod)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marioherrerod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marioherrerod)
 [![Email](https://img.shields.io/badge/Email-herrerodelgadomario-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herrerodelgadomario@gmail.com)
