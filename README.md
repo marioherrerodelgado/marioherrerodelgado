@@ -1,96 +1,75 @@
 <!--
-  README de perfil / CV.
-  · Si lo pones en un repo llamado "marioherrerodelgado" → sale en tu PERFIL de GitHub.
-  · Si lo pones en el repo "cv" → sale al abrir el repo.
-  Busca los comentarios EDITA para personalizar.
+  README DE PERFIL de Mario Herrero Delgado.
+  Súbelo a un repo PÚBLICO llamado exactamente "marioherrerodelgado"
+  (igual que tu usuario) → GitHub lo muestra en la portada de tu perfil.
+  Busca "EDITA" si quieres cambiar algo.
 -->
 
 <div align="center">
 
-# Mario Herrero Delgado
+# Hola, soy Mario Herrero Delgado 👋
 
-**IT Lead · Automatización · Desarrollo full-stack**
-<br>
-📍 Madrid, España
+### CTO & Digital Architect · Especialista en Zoho One
+`Madrid, España` &nbsp;·&nbsp; `CRM/ERP` &nbsp;·&nbsp; `Automatización` &nbsp;·&nbsp; `Transformación Digital`
 
-<!-- Línea "animada" (es un SVG externo, funciona como imagen). EDITA el texto tras lines= -->
-[![Typing](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3500&pause=800&color=8B7CF6&center=true&vCenter=true&width=560&lines=construyo+los+sistemas+que+hacen+que+todo+funcione+solo.;Zoho+CRM+%C2%B7+Deluge+%C2%B7+Next.js+%C2%B7+Firebase+%C2%B7+IA)](https://github.com/marioherrerodelgado)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=620&lines=CTO+%26+Digital+Architect;Especialista+en+Zoho+One+%C2%B7+Deluge+%C2%B7+APIs;Convierto+procesos+manuales+en+sistemas+que+van+solos)](https://linkedin.com/in/marioherrerod)
 
-<!-- ⭐ Botón al CV interactivo (Pages). EDITA la URL si tu repo no se llama "cv" -->
-### [🔗 Abrir mi CV interactivo →](https://marioherrerodelgado.github.io/cv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marioherrerod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marioherrerod)
+[![Email](https://img.shields.io/badge/Email-herrerodelgadomario-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herrerodelgadomario@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mí
+### 🧩 Sobre mí
 
-Lidero el área de IT en una organización de Formación Profesional: diseño la infraestructura, automatizo procesos y construyo las herramientas internas que usa cada departamento a diario. Trabajo entre el **desarrollo full-stack** y la **automatización de negocio** — desde funciones y flujos en Zoho CRM hasta apps a medida, dashboards con datos en vivo y asistentes con IA.
+Más de **8 años** convirtiendo procesos manuales en sistemas que funcionan solos. Especialista en el ecosistema **Zoho One** (CRM/ERP, Deluge, APIs, automatización), con recorrido de **consultoría** y **formación** a equipos. Ahora lidero la transformación digital como CTO de un centro de Formación Profesional.
 
-<!-- EDITA lo de arriba a tu gusto -->
+> ⚡ **Logro favorito:** –30 % en tiempos de gestión gracias a automatizaciones Zoho.
 
-## Stack
+### 🛠️ Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1C2029?style=flat-square&logo=javascript&logoColor=F2A65A)
-![TypeScript](https://img.shields.io/badge/TypeScript-1C2029?style=flat-square&logo=typescript&logoColor=8B7CF6)
-![Next.js](https://img.shields.io/badge/Next.js-1C2029?style=flat-square&logo=nextdotjs&logoColor=fff)
-![React](https://img.shields.io/badge/React-1C2029?style=flat-square&logo=react&logoColor=34D3B0)
-![Node.js](https://img.shields.io/badge/Node.js-1C2029?style=flat-square&logo=nodedotjs&logoColor=34D3B0)
-![Firebase](https://img.shields.io/badge/Firebase-1C2029?style=flat-square&logo=firebase&logoColor=F2A65A)
-![Vercel](https://img.shields.io/badge/Vercel-1C2029?style=flat-square&logo=vercel&logoColor=fff)
-![Zoho](https://img.shields.io/badge/Zoho%20CRM%20%2F%20Deluge-1C2029?style=flat-square&logo=zoho&logoColor=E8484F)
+![Zoho One](https://img.shields.io/badge/Zoho%20One-E42527?style=flat-square&logo=zoho&logoColor=white)
+![Deluge](https://img.shields.io/badge/Deluge-7B2FFF?style=flat-square&logo=zoho&logoColor=white)
+![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-089949?style=flat-square&logo=zoho&logoColor=white)
+![Zoho Analytics](https://img.shields.io/badge/Zoho%20Analytics-3E7EFF?style=flat-square&logo=zoho&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2A65A?style=flat-square&logo=javascript&logoColor=black)
+![APIs REST](https://img.shields.io/badge/APIs%20REST-34D3B0?style=flat-square&logo=fastapi&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Chatbots](https://img.shields.io/badge/Chatbots%20WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
-## Proyectos
+### 💼 Experiencia
 
-<!-- Interactividad nativa permitida en README: secciones plegables. Clic para expandir. -->
+- **CTO & Digital Architect** — Sinergia FP · `sep 2025 → hoy`
+- **Consultor Senior** — Agencia Reinicia · `may 2024 → hoy`
+- **Manager CRM/ERP + Formador** — Grupo Colón · IECM · `oct 2018 – may 2024`
+- **Formador · Consultor de aperturas** — Grupo VIPS & ALSEA Iberia · `2014 – 2017`
 
 <details>
-<summary><b>Panel de operaciones</b> — dashboards con datos de CRM en vivo</summary>
+<summary>🎓 <b>Formación que imparto</b> — clic para ver</summary>
 
 <br>
 
-Pipeline de leads, ciclo de matrículas y riesgo de baja, con datos en tiempo real.
-`Next.js` · `Zoho` · `JS`
+CRM/ERP · Zoho Suite · Marketing · WordPress · Diseño gráfico · Branding · Administración · Hostelería.
 
 </details>
 
-<details>
-<summary><b>Asistente de WhatsApp con IA</b> — admisiones automatizadas</summary>
+### 📊 GitHub
 
-<br>
+<div align="center">
 
-Bot que cualifica, sincroniza con el CRM y deriva a un humano cuando toca.
-`IA` · `WhatsApp API` · `Zoho`
+<!-- Estas tarjetas se generan solas con tu actividad. Si tienes pocos repos públicos, puedes borrar este bloque. -->
+![Stats](https://github-readme-stats.vercel.app/api?username=marioherrerodelgado&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioherrerodelgado&layout=compact&hide_border=true&theme=tokyonight)
 
-</details>
+</div>
 
-<details>
-<summary><b>Generador de exámenes</b> — SaaS con IA</summary>
+### 📫 Contacto
 
-<br>
+[![Email](https://img.shields.io/badge/herrerodelgadomario@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:herrerodelgadomario@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/marioherrerod-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marioherrerod)
+[![Tel](https://img.shields.io/badge/+34%20677%2080%2069%2021-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+34677806921)
 
-Creación de exámenes con IA. Auth por magic-link, pagos y stack serverless.
-`Next.js` · `Firebase` · `IA`
-
-</details>
-
-<details>
-<summary><b>Automatizaciones Zoho</b> — funciones Deluge</summary>
-
-<br>
-
-Facturación, sincronización de firmas y creación automática de accesos.
-`Deluge` · `Zoho`
-
-</details>
-
-<!-- Añade más bloques <details> copiando uno de arriba -->
-
-## Contacto
-
-<!-- EDITA tus enlaces reales -->
-[![Email](https://img.shields.io/badge/Email-8B7CF6?style=flat-square&logo=gmail&logoColor=fff)](mailto:mario@ejemplo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1C2029?style=flat-square&logo=github&logoColor=fff)](https://github.com/marioherrerodelgado)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C2029?style=flat-square&logo=linkedin&logoColor=34D3B0)](https://linkedin.com/in/tu-usuario)
-
-<div align="center"><sub>Este README es la portada. El CV completo e interactivo vive en <a href="https://marioherrerodelgado.github.io/cv/">Pages</a>.</sub></div>
+<div align="center"><sub>Zoho One Specialist · Madrid, España · Referencias disponibles a petición</sub></div>
