@@ -14,7 +14,7 @@
 📍 Madrid, España
 
 <!-- Línea "animada" (es un SVG externo, funciona como imagen). EDITA el texto tras lines= -->
-[![Typing](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3500&pause=800&color=8B7CF6&center=true&vCenter=true&width=560&lines=Construyo+los+sistemas+que+hacen+que+todo+funcione+solo.;Zoho+CRM+%C2%B7+Deluge+%C2%B7+Next.js+%C2%B7+Firebase+%C2%B7+IA)](https://github.com/marioherrerodelgado)
+[![Typing](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3500&pause=800&color=8B7CF6&center=true&vCenter=true&width=560&lines=construyo+los+sistemas+que+hacen+que+todo+funcione+solo.;Zoho+CRM+%C2%B7+Deluge+%C2%B7+Next.js+%C2%B7+Firebase+%C2%B7+IA)](https://github.com/marioherrerodelgado)
 
 <!-- ⭐ Botón al CV interactivo (Pages). EDITA la URL si tu repo no se llama "cv" -->
 ### [🔗 Abrir mi CV interactivo →](https://marioherrerodelgado.github.io/cv/)
@@ -25,7 +25,7 @@
 
 ## Sobre mí
 
-Lidero el área de IT en una organización de Formación Profesional: diseño la infraestructura, automatizo procesos y construyo las herramientas internas que usa cada departamento a diario. Trabajo a caballo entre el **desarrollo full-stack** y la **automatización de negocio** — desde funciones y flujos en Zoho CRM hasta apps a medida, dashboards con datos en vivo y asistentes con IA.
+Lidero el área de IT en una organización de Formación Profesional: diseño la infraestructura, automatizo procesos y construyo las herramientas internas que usa cada departamento a diario. Trabajo entre el **desarrollo full-stack** y la **automatización de negocio** — desde funciones y flujos en Zoho CRM hasta apps a medida, dashboards con datos en vivo y asistentes con IA.
 
 <!-- EDITA lo de arriba a tu gusto -->
 
